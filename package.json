@@ -1,0 +1,17 @@
+{
+    "name": "BFKKuTuBot",
+    "version": "1.0.0",
+    "description": "BFKKuTu Bot",
+    "main": "app.js",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "discord.js": "^12.2.0",
+        "mathjs": "^6.6.4",
+        "node-fetch": "^2.6.0",
+        "ytdl-core": "^2.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node ."
+    }
+}
